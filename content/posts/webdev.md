@@ -11,13 +11,9 @@ theme: default
 Amherst College
 October 31st 2022
 
-# Short introduction to CS Club and ACES
-## Maksym (President of Enterpreneurship Club)
-## Ngacho (President of CS Club)
+Today: Learn how to build and host a website
 
-# Today: Learn how to build and host a website
-
-# Not any website, but a **personal** website.
+Not any website, but a **personal** website.
 
 # What do personal websites look like?
 - Some examples  
