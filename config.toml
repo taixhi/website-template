@@ -1,5 +1,5 @@
 # Basic information
-baseURL = 'http://taixhi.github.io/website-template' # Should be updated to your domain
+baseURL = 'https://taixhi.github.io/website-template' # Should be updated to your domain
 languageCode = 'en-us'
 theme="archie"
 
