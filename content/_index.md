@@ -16,7 +16,8 @@ Hello! My name is Austin, and I am currently studying LJST at Amherst College. I
 # Some shows I'm watching right now
 - Gossip Girl (the first one)
 - White Lotus S2
-I'm really smart and you should hire me. I will change your firm for the better and you would be lucky to have me
+
+I'm really smart and you should hire me. I will change your firm for the better and you would be lucky to have me.
 
 
 You should download this new app I made called "Prison Escape" [here](https://google.com). Have a nice day :)
