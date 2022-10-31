@@ -26,7 +26,7 @@ url = "https://twitter.com/amherstcollege"
 
 # Menu items
 [[menu.main]]
-name = "Home"
+name = "home"
 url = "/"
 weight = 1 # lower number sorts them to the left
 
@@ -35,3 +35,7 @@ name = "blog"
 url = "/posts"
 weight = 2
 
+[[menu.main]]
+name = "tags"
+url = "/tags"
+weight = 3
