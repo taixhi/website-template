@@ -315,3 +315,14 @@ table td{
   padding: 6px 13px;
   border: 1px solid #dfe2e5;
 }
+
+
+/* circular profile image*/
+.circular-profile {
+  width: 200px;
+  height: 200px;
+  float: right;
+  object-fit: cover;
+  object-position: center; /* Center the image within the element */
+  border-radius: 50%;
+}

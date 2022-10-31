@@ -11,8 +11,9 @@
 					<p>{{ .Site.Params.About | markdownify }}</p>
 					{{- end -}}
 				</div>
+				<img src="images/profile.png" class="circular-profile"></img>
 				  <div class="homepage-content">
-					  <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+					  <!-- Note that the content for index.html, will pull from content/_index.md -->
 					  {{.Content}}
 				</div>
 				<h1>{{ .Site.Params.BlogTitle}}</h1>
