@@ -3,7 +3,7 @@ title: An introduction to web development for normies
 date: 2021-10-31T00:00:00-05:00
 marp: true
 title: An introduction to web development for normies
-date 
+date: 2021-10-31T02:09:12-05:00
 theme: default
 ---
 <!-- headingDivider: 1 -->
