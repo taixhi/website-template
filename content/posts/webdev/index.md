@@ -2,7 +2,7 @@
 title: An introduction to web development for normies
 date: 2021-10-31T00:00:00-05:00
 marp: true
-title: An introduction to web development for normies
+description: Learn how to build and host your own website for free!
 date: 2021-10-31T02:09:12-05:00
 theme: default
 tags: [tutorial, dev]
@@ -11,6 +11,9 @@ tags: [tutorial, dev]
 
 Amherst College
 October 31st 2022
+
+Check out the slides [here](slides.html)
+
 
 Today: Learn how to build and host a website
 
